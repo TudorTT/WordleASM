@@ -1,0 +1,10 @@
+apple
+grape
+house
+table
+chair
+smile
+world
+brain
+train
+light
